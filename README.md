@@ -1,2 +1,2 @@
 # bug-report
-To remember our bugs and learn from then
+To remember our bugs and learn from them
